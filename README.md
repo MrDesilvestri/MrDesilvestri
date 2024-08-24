@@ -78,4 +78,4 @@
 
 ###
 
-![GitHub Snake](https://github.com/TU_USUARIO/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MrDesilvestri/MrDesilvestri/blob/output/github-contribution-grid-snake.gif)
