@@ -77,4 +77,4 @@
 
 ###
 
-![snake gif](https://github.com/MrDesilvestri/MrDesilvestri/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-contribution-grid-snake.gif)
